@@ -1,2 +1,1 @@
-# hodllinfo
-hodllinfo project
+quadb-hodlinfo
